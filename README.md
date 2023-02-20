@@ -10,7 +10,7 @@
 
 ## ▪️ See my 42cursus progress ↙️ 
 
-◦ [42cursus progress](https://github.com/gemartin99/42cursus)
+◦ [42cursus progress](https://github.com/CERVIII/42cursus)
 
 ## ▪️ Tech Stack
 
@@ -33,20 +33,19 @@ Email: pcervill@student.42madrid.com
 
 <!-- https://github.com/anuraghazra/github-readme-stats -->
 <div align="center">
-	<img src="https://github-readme-stats.vercel.app/api?username=CERVIII&count_private=true&title_color=FBA92C&text_color=FFFFFF&icon_color=FBA92C&bg_color=0D1117&hide_border=true" alt="Github stats">
+	<img src="https://github-readme-stats.vercel.app/api?username=CERVIII&show_icons=true&theme=radical" alt="Github stats">
 </div>
 
 <!-- To customise ^ https://github-readme-streak-stats.herokuapp.com/demo -->
 <div align="center">
-	<img src="https://github-readme-streak-stats.herokuapp.com?user=CERVIII&hide_border=true&background=0D1117&stroke=FFFFFF&sideNums=FFFFFF&ring=FBA92C&fire=FBA92C&currStreakNum=FFFFFF&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=555555" alt="Github streak stats">
+	<img src="https://github-readme-streak-stats.herokuapp.com?user=CERVIII&theme=radical&locale=es" alt="Github streak stats">
 </div>
 
 <div align="center">
-	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CERVIII&layout=compact&langs_count=6e&title_color=FBA92C&text_color=FFFFFF&icon_color=EC6576&bg_color=0D1117&hide_border=true" alt="Language count">
+	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CERVIII&layout=compact&langs_count=6e&theme=radical&hide_border=false" alt="Language count">
 </div>
 
 <div align="center">
-  <a href="https://1999azzar.github.io/1999AZZAR/">
   <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
        alt="snake" /></a>
 </div>
@@ -60,4 +59,3 @@ Email: pcervill@student.42madrid.com
 <p align="center">
   <img src="https://metrics.lecoq.io/CERVIII" alt="Github Metrics">
 </p>
-
