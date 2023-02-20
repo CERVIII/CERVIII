@@ -15,12 +15,12 @@
 ## ▪️ Github stats 📊
 
 <!-- https://github.com/anuraghazra/github-readme-stats -->
-<div align="left">
+<div align="center">
 	<img src="https://github-readme-stats.vercel.app/api?username=CERVIII&count_private=true&title_color=FBA92C&text_color=FFFFFF&icon_color=FBA92C&bg_color=0D1117&hide_border=true" alt="Github stats">
 </div>
 
 <!-- To customise ^ https://github-readme-streak-stats.herokuapp.com/demo -->
-<div align="right">
+<div align="center">
 	<img src="https://github-readme-streak-stats.herokuapp.com?user=CERVIII&hide_border=true&background=0D1117&stroke=FFFFFF&sideNums=FFFFFF&ring=FBA92C&fire=FBA92C&currStreakNum=FFFFFF&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=555555" alt="Github streak stats">
 </div>
 
