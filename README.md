@@ -4,10 +4,6 @@
 
 ## ▪️ I'm student at [42 Madrid](https://www.42madrid.com/) 👨🏻‍💻📚 
 
-<p align="center">
-	<a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cled0xuft00060fkzftfc13lu/stats?cursusId=21&coalitionId=66" alt="pcervill's 42 stats" /></a>
-</p>
-
 ## ▪️ See my 42cursus progress ↙️ 
 
 ◦ [42cursus progress](https://github.com/CERVIII/42cursus)
