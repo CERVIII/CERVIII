@@ -42,7 +42,7 @@ Email: pcervill@student.42madrid.com
 </div>
 
 <div align="center">
-  <img  src="https://github.com/CERVIII/CERVIII/resource/grid-snake.svg"
+  <img  src="https://github.com/CERVIII/CERVIII/blob/readme/resource/grid-snake.svg"
        alt="snake" /></a>
 </div>
 
