@@ -1,5 +1,5 @@
 <div align="center">
-<h1 align="center">Hi <img width="35" src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/waving.gif">, I'm Pablo</h1>
+<h1 align="center">Hello World🌍,<br></br> I'm Pablo</h1>
 </div>
 
 ## ▪️ I'm student at [42 Madrid](https://www.42madrid.com/) 👨🏻‍💻📚 
