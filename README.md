@@ -27,21 +27,29 @@ Email: pcervill@student.42madrid.com
 
 ## ▪️ Github stats 📊
 
-<!-- https://github.com/anuraghazra/github-readme-stats -->
-<div align="center">
-	<img src ="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CERVIII&theme=radical" alt="Github Stats">
-	<img src="https://github-readme-stats.vercel.app/api?username=CERVIII&show_icons=true&theme=radical" alt="Github stats">
-</div>
-
 <!-- To customise ^ https://github-readme-streak-stats.herokuapp.com/demo -->
 <div align="center">
 	<img src=http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=CERVIII&theme=radical>
+</div>
+
+<div align="center">
 	<img src="https://github-readme-streak-stats.herokuapp.com?user=CERVIII&theme=radical&locale=es" alt="Github streak stats">
 </div>
 
 <div align="center">
+	<img src="https://github-readme-stats.vercel.app/api?username=CERVIII&show_icons=true&theme=radical" alt="Github stats">
+</div>
+
+<!-- https://github.com/anuraghazra/github-readme-stats -->
+<div align="center">
+	<img src ="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CERVIII&theme=radical" alt="Github Stats">
+</div>
+
+<!--
+<div align="center">
 	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CERVIII&layout=compact&langs_count=6e&theme=radical&hide_border=false" alt="Language count">
 </div>
+-->
 
 <div align="center">
   <img  src="https://github.com/CERVIII/CERVIII/blob/main/resources/img/grid-snake.svg"
