@@ -62,6 +62,6 @@ Email: pcervill@student.42madrid.com
 <img src="https://komarev.com/ghpvc/?username=CERVIII" alt="CERVIII"/>  
 </p>
 
-<p align="center">
+<!--
   <img src="https://metrics.lecoq.io/CERVIII" alt="Github Metrics">
-</p>
+-->
