@@ -3,9 +3,11 @@
 </div>
 
 ## ▪️ I'm student at [42 Madrid](https://www.42madrid.com/) 👨🏻‍💻📚 
+<div align="center">
+	<img src="https://badge.mediaplus.ma/binary/pcervill?1337Badge=off&UM6P=off)](https://github.com/oakoudad/badge42">
+</div>
 
 ## ▪️ See my 42cursus progress ↙️ 
-
 ◦ [42cursus progress](https://github.com/CERVIII/42cursus)
 
 ## ▪️ Tech Stack
