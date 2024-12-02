@@ -14,7 +14,7 @@
 
 <!-- https://github.com/tandpfun/skill-icons#icons-list -->
 <div align="center">
-	<img src="https://skillicons.dev/icons?i=bash,c,cs,cpp,git,github,linux,vim,wordpress&perline=10" alt="Skills">
+	<img src="https://skillicons.dev/icons?i=bash,c,cs,cpp,git,github,linux,vim&perline=10" alt="Skills">
 </div>
 
 ## ▪️ Contact me 📥
